@@ -9,6 +9,8 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
+      - title: "Physical Game"
+        url: /projects/board-game/
   - title: "About"
     url: /about-me/
   - title: "Pages"
