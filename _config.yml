@@ -59,12 +59,12 @@ footer: # Site footer
       # url:
       target: "_blank"
     - label: "GitHub" # GitHub link
-      icon: "fab fa-fw fa-github"
-      # url:
+      icon: "fa-brands fa-github"
+      url: "https://github.com/SethJ-2006/"
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/SethJ-2006/"
+      # url:
       target: "_blank"
     - label: "Bitbucket" # Bitbucket link
       icon: "fab fa-fw fa-bitbucket"
