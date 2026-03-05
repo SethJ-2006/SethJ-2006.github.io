@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Portfolio"
 layout: splash
 permalink: /
 header:
