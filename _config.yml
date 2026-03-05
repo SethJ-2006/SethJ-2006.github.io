@@ -64,7 +64,7 @@ footer: # Site footer
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/SethJ-2006/"
       target: "_blank"
     - label: "Bitbucket" # Bitbucket link
       icon: "fab fa-fw fa-bitbucket"
