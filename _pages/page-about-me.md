@@ -1,5 +1,5 @@
 ---
-title: "Default Layout"
+title: "About Me"
 layout: default
 permalink: /pages/default/
 ---
