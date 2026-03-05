@@ -9,8 +9,8 @@ main:
         url: /projects/2d-game/
       - title: "3D Greybox"
         url: /projects/3d-game/
-      - title: "Physical Board Game"
-        url: /projects/physical-games/
+      # - title: "Physical Board Game"
+        # url: /projects/physical-games/
   - title: "About"
     url: /about/
     children:
@@ -32,8 +32,8 @@ projects:
     url: /projects/2d-game/
   - title: "3D Greybox"
     url: /projects/3d-game/
-  - title: "Physical Board Game"
-    url: /projects/physical-games/
+ # - title: "Physical Board Game"
+   # url: /projects/physical-games/
 
 # Sidebar menu for the Pages page
 about:
