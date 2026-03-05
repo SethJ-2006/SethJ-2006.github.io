@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: default
-permalink: /pages/default/
+permalink: /about-me/
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
