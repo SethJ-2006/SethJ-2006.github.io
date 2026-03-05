@@ -5,12 +5,14 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
-  - title: "Pages"
-    url: /pages/
+      - title: "2D Game"
+        url: /projects/2d-game/
+      - title: "3D Greybox"
+        url: /projects/3d-game/
+      - title: "Physical Board Game"
+        url: /projects/physical-games/
+  - title: "About"
+    url: /about/
     children:
       - title: "Default Layout"
         url: /pages/default/
@@ -18,19 +20,23 @@ main:
         url: /pages/single/
       - title: "Splash Layout"
         url: /pages/splash/
-  - title: "Components"
-    url: /components/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Contact"
+    url: /contact/
  
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "2D Game"
+    url: /projects/2d-game/
+  - title: "3D Greybox"
+    url: /projects/3d-game/
+  - title: "Physical Board Game"
+    url: /projects/physical-games/
 
 # Sidebar menu for the Pages page
-pages:
+about:
   - title: "Default Layout"
     url: /pages/default/
   - title: "Single Layout"
