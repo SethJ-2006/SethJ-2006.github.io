@@ -1,18 +1,11 @@
 ---
-title: "Default Layout"
+title: "Contact"
 layout: default
-permalink: /pages/default/
+permalink: /contact-form/
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
 You can use it for simple pages where you want full control over the markup.
-
-{% include download
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
-%}
 
 {% include google-form
   title="Contact Me"
