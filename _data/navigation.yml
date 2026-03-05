@@ -22,6 +22,8 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
+  - title: "Contact"
+    url: /contact-form/
  
 
 # Sidebar menu for the Projects page
