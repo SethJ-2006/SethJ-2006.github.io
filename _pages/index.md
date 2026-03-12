@@ -34,7 +34,7 @@ skills:
   - name: "Pixel Art"
     icon: "fa-solid fa-palette"
     badges: ["Libresprite"]
-    text: "Created pixel art sprites to be used in Unity project. <a href="https://sethj-2006.github.io/gallery/" target="_blank" rel="noopener noreferrer">Click here to see examples</a>."
+    text: "Created pixel art sprites to be used in Unity project. <a href="https://sethj-2006.github.io/gallery/" target="_blank" rel="noopener noreferrer">Examples</a>."
     level_label: "Beginner"
 ---
 
