@@ -43,6 +43,7 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
   - name: "Project Management"
+    icon: "/assets/images/office-365-favicon.png"
     badges: ["Office 365", "Miro"]
     text: "Made use of project management software for group project work."
 ---
