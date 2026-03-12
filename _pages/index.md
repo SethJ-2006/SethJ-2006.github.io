@@ -43,9 +43,16 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
   - name: "Project Management"
-    icon: "/assets/images/office-365-favicon.png"
+    icon: "fa-brands fa-microsoft"
     badges: ["Office 365", "Miro"]
     text: "Made use of project management software for group project work."
+  - name: "Pixel Art"
+    icon: "fa-solid fa-palette"
+    badges: ["Libresprite"]
+    text: "Created pixel art sprites to be used in Unity project."
+    url: "/gallery/"
+    btn_label: "See More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
