@@ -42,6 +42,9 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
+  - name: "Project Management"
+    badges: ["Office 365", "Miro"]
+    text: "Made use of project management software for group project work."
 ---
 
 {% include feature_row id="intro" type="center" %}
