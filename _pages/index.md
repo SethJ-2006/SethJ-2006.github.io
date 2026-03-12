@@ -37,7 +37,6 @@ skills:
     text: "Created pixel art sprites to be used in Unity project."
     text: <a href="https://sethj-2006.github.io/gallery/" target="_blank" rel="noopener noreferrer">See Examples</a>
     level_label: "Beginner"
-    <--! Need to find a solution since putting both text lines on the same bit is too long. -->
 ---
 
 {% include feature_row id="intro" type="center" %}
