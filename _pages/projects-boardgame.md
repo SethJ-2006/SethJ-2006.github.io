@@ -14,7 +14,7 @@ sidebar:
   </div>
   <!-- RIGHT: text area -->
   <div style="flex:1 1 250px; min-width:250px;">
-    <h2>1st yr Project Game - Physical Board Gamer</h2>
+    <h2>1st yr Project Game - Physical Board Game</h2>
     <p>
 This page is another project page that is nested within Projects.
     </p>
