@@ -36,7 +36,7 @@ skills:
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
     text: "Built multiple prototypes and a published jam game."
-    years: 2
+    years: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
