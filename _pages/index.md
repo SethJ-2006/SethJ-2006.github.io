@@ -31,7 +31,7 @@ feature_row:
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-skills:
+  skills:
   - name: "Unity"
       icon: "fab fa-fw fa-unity"
       badges: ["C#", "3D Greybox", "2D Level Design"]
