@@ -1,7 +1,7 @@
 ---
-title: "Physical Game"
+title: "3D Greybox"
 layout: single
-permalink: /projects/board-game/
+permalink: /projects/3d-greybox/
 sidebar:
   title: "Projects"
   nav:
@@ -16,7 +16,7 @@ sidebar:
   <div style="flex:1 1 250px; min-width:250px;">
     <h2>1st Yr Project Game - Nyaight on the Town</h2>
     <p>
-This page is another project page that is nested within Projects. This one is for my physical board game.
+This page is another project page that is nested within Projects. This one is for my 3d greybox in Unity.
     </p>
   </div>
 </div>
