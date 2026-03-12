@@ -22,6 +22,8 @@ main:
         url: /pages/single/
       - title: "Splash Layout"
         url: /pages/splash/
+  - title: "Art Gallery"
+    url: /gallery/
   - title: "Components"
     url: /components/
   - title: "Contact"
