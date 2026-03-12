@@ -31,9 +31,28 @@ feature_row:
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+skills:
+  - name: "Unity"
+    icon: "fab fa-fw fa-unity"
+    badges: ["C#", "3D Greybox", "2D Level Design"]
+    text: "Built multiple prototypes."
+    years: 1
+  - name: "Game Art"
+    badges: ["Libresprite", "Probuilder"]
+    text: "Created basic sprite art to use in Unity projects.
+    level_label: "Beginner"
+    url: /gallery/
+    btn_label: "See Examples"
+    btn_class: "btn--primary"
+  - name: "Game Design"
+    icon: "fas fa-fw fa-gamepad"
+    badges: ["Game Mechanics", "Levels", "UI"]
+    text: "Designed mechanics, levels, and player feedback loops."
+    level_label: "Beginner"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
+{% include skills skills=page.skills %}
