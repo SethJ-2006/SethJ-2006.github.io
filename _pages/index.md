@@ -13,9 +13,9 @@ header:
 
 
 excerpt: "You can add text here."
-intro: 
+  intro: 
   - excerpt: 'You can also add text like this....'
-feature_row:
+  feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
