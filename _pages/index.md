@@ -20,7 +20,7 @@ skills:
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
     text: "Built multiple prototypes and a published jam game."
-    years: 1
+    year: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
@@ -30,10 +30,12 @@ skills:
     icon: "fa-brands fa-microsoft"
     badges: ["Office 365", "Miro"]
     text: "Made use of project management software for group project work."
+    level_label: "Experienced"
   - name: "Pixel Art"
     icon: "fa-solid fa-palette"
     badges: ["Libresprite"]
     text: "Created pixel art sprites to be used in Unity project."
+    level_label: "Beginner"
     url: "/gallery/"
     btn_label: "See More"
     btn_class: "btn--primary"
