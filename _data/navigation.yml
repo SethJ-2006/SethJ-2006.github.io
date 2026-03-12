@@ -32,10 +32,10 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "2D Game"
+    url: /projects/2d-game/
+  - title: "3D Game"
+    url: /projects/3d-game/
   - title: "Physical Game"
     url: /projects/board-game/
 
