@@ -36,7 +36,7 @@ skills:
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "3D Greybox", "2D Level Design"]
     text: "Built multiple prototypes."
-    years: 1
+    year: 1
   - name: "Game Art"
     badges: ["Libresprite", "Probuilder"]
     text: "Created basic sprite art to use in Unity projects.
