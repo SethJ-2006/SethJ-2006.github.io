@@ -3,11 +3,16 @@ title: "Art Gallery"
 layout: single
 permalink: /gallery/
 gallery_showcase:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
+    image_path: assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
+    alt: "A healthbar created for our 2D project"
+    title: "Healthbar Graphic"
+    caption: "Healthbar Graphic (2D)"
+  - url: assets/images/gallery/Sprite-Roller.png
+    image_path: assets/images/gallery/Sprite-Roller.png
+    alt: "A patrolling enemy's animation sheet"
+    title: "Roller Enemy"
+    caption: "Roller Enemy (2D Demo)"
 ---
 
 This is a temporary text before putting the actual image slideshow into this page. This is merely to allow the page to be committed.
