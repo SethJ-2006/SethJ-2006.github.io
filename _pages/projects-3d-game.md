@@ -16,7 +16,7 @@ sidebar:
   <div style="flex:1 1 250px; min-width:250px;">
     <h2>1st Yr Project Game - 3D Greybox</h2>
     <p>
-This page is another project page that is nested within Projects. This one is for my 3d greybox project in Unity.
+In Unity, I was able to create a 3D greybox environment, utilising assets from the Unity Asset Store and ProBuilder Plus. The environment in question was to simulate a hubworld for a 3D-Platformer, with rooms containing portal to worlds.
     </p>
   </div>
 </div>
