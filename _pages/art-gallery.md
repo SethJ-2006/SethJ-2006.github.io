@@ -1,6 +1,6 @@
 ---
 title: "Art Gallery"
-layout: single
+layout: default
 permalink: /gallery/
 gallery_showcase:
   - url: /assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
