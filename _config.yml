@@ -1,5 +1,5 @@
 # Basic site settings (edit these first)
-title: "Student Portfolio" # Site title shown in the browser and header
+title: "Seth Portfolio" # Site title shown in the browser and header
 title_separator: "-"
 subtitle: "B01013049" # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
@@ -20,7 +20,7 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "Seth McArdle" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Add short bio here" # Bio of the student
   location: "Add location here" # Location of the student
