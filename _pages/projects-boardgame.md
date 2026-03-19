@@ -16,7 +16,8 @@ sidebar:
   <div style="flex:1 1 250px; min-width:250px;">
     <h2>1st Yr Project Game - Nyaight on the Town</h2>
     <p>
-This page is another project page that is nested within Projects. This one is for my physical board game.
+In addition to making video games, I have also dabbled in physical game creation. My boardgame, Nya-ight on the Town (Nyaight on the Town), was designed to stimulate strategic competition with a light-hearted theme.
+_
     </p>
   </div>
 </div>
