@@ -9,6 +9,6 @@ You can use it for simple pages where you want full control over the markup.
 
 {% include google-form
   title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
+  src="https://forms.gle/oLqktBrMZjqwppvs7"
   height="800"
 %}
