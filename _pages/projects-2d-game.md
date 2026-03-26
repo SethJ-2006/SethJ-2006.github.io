@@ -16,7 +16,9 @@ sidebar:
   <div style="flex:1 1 250px; min-width:250px;">
     <h2>1st Yr Project Game - 2D Game Creation</h2>
     <p>
-This page is another project page that is nested within Projects. This one is for my 2d projects.
+For this project, I was tasked with creating a short 2d level in Unity. It helped me to learn a lot more about each individual aspect of game creation, including creating pixel art sprites, tilemapping, scripting, and various systems.
+Not every assets was original, and most were copied from existing games for the sake of making it easier.
+This project had also taught me the value of troubleshooting, as there were various issues during development (such as the volume options not working in the Unity scene or the attack originally not switching sides with the player)
     </p>
   </div>
 </div>
