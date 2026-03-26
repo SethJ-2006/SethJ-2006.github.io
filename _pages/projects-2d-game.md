@@ -1,6 +1,6 @@
 ---
 title: "2D Demo"
-layout: single
+layout: splash
 permalink: /projects/2d-game/
 sidebar:
   title: "Projects"
