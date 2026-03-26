@@ -14,7 +14,7 @@ header:
 
 excerpt: "You can add text here."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Start adding in text to here, small paragraph to introduce my skills...'
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
