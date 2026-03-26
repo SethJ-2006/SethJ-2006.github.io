@@ -11,7 +11,7 @@ sidebar:
   <div style="flex:1 1 500px; min-width:500px;">
     {% include video id="4ZSDLuPbj1M" provider="youtube" %}
   </div>
-  <div style="flex:1 1 250px; min-width:250px;">
+  <div style="flex:1 1 250px; min-width:400px;">
     <h2>1st Yr Project Game - 2D Game Creation</h2>
     <p>
 For this project, I was tasked with creating a short 2d level in Unity. It helped me to learn a lot more about each individual aspect of game creation, including creating pixel art sprites, tilemapping, scripting, and various systems.
