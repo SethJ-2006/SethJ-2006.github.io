@@ -13,6 +13,11 @@ gallery_showcase:
     alt: "A patrolling enemy's animation sheet"
     title: "Roller Enemy"
     caption: "Roller Enemy (2D Demo)"
+  - url: assets/images/gallery/Sprite-Wounded_Miner.png
+    image_path: assets/images/gallery/Sprite-Wounded_Miner.png
+    alt: "Animation sheet for a wounded miner the player saves."
+    title: "Wounded Miner"
+    caption: "Wounded Minor (2D Demo)"
 ---
 ## Art Gallery
 
