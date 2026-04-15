@@ -18,6 +18,26 @@ gallery_showcase:
     alt: "Animation sheet for a wounded miner the player saves."
     title: "Wounded Miner"
     caption: "Wounded Minor (2D Demo)"
+  - url: assets/images/gallery/Menu_Testing.png
+    image_path: assets/images/gallery/Menu_Testing.png
+    alt: "A simple menu panel used in one of my 2D projects."
+    title: "Pause Menu"
+    caption: "Pause Menu (2D Groupwork)"
+  - url: assets/images/gallery/Menu_Button.png
+    image_path: assets/images/gallery/Menu_Button.png
+    alt: "Button graphics used for the pause menu."
+    title: "Pause Button"
+    caption: "Pause Menu Button (2D Groupwork)"
+  - url: assets/images/gallery/Healthbar_Prototyping.png
+    image_path: assets/images/gallery/Healthbar_Prototyping.png
+    alt: "The updated healthbar created to replace the original healthbar."
+    title: "Healthbar"
+    caption: "Healthbar (2D Groupwork)"
+  - url: assets/images/gallery/Recovery_Particle.png
+    image_path: assets/images/gallery/Recovery_Particle.png
+    alt: "Health recovery particles made to show healing."
+    title: "Health Recovery Particle"
+    caption: "Health Recovery Particle (2D Groupwork)"
 ---
 ## Art Gallery
 
