@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: assets/images/Screenshots/3d_screenshot_island.png
   actions:
     - label: "Download CV"
       url: "https://ulster-my.sharepoint.com/:b:/r/personal/mcardle-s17_ulster_ac_uk/Documents/CRE136/CV_Download.pdf?csf=1&web=1&e=WPYimb"
