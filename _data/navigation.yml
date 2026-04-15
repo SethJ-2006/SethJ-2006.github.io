@@ -11,10 +11,10 @@ main:
         url: /projects/3d-game/
       - title: "Physical Game"
         url: /projects/board-game/
-  - title: "About"
-    url: /about-me/
   - title: "Art Gallery"
     url: /gallery/
+  - title: "About"
+    url: /about-me/
   - title: "Contact"
     url: /contact-form/
  
