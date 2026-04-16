@@ -2,12 +2,7 @@
 title: "Art Gallery"
 layout: default
 permalink: /gallery/
-gallery_showcase:
-  - url: /assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
-    image_path: assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
-    alt: "A healthbar created for our 2D project"
-    title: "Healthbar Graphic"
-    caption: "Healthbar Graphic (2D)"
+gallery_2d:
   - url: assets/images/gallery/Sprite-Roller.png
     image_path: assets/images/gallery/Sprite-Roller.png
     alt: "A patrolling enemy's animation sheet"
@@ -18,6 +13,12 @@ gallery_showcase:
     alt: "Animation sheet for a wounded miner the player saves."
     title: "Wounded Miner"
     caption: "Wounded Minor (2D Demo)"
+gallery_showcase:
+  - url: /assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
+    image_path: assets/images/gallery/Healthbar_Merged_for_Testing_Sheet.png
+    alt: "A healthbar created for our 2D project"
+    title: "Healthbar Graphic"
+    caption: "Healthbar Graphic (2D)"
   - url: assets/images/gallery/Menu_Testing.png
     image_path: assets/images/gallery/Menu_Testing.png
     alt: "A simple menu panel used in one of my 2D projects."
@@ -41,6 +42,9 @@ gallery_showcase:
 ---
 ## Art Gallery
 
-Here is a selection of sprites and assets I made myself for various game projects using programs such as Libresprite.
+Here is a selection of sprites and assets I made myself for various game projects using programs such as Libresprite.<br>
+Below are a collection of sprites I made for my module, CRE134. I used Libresprite to create these, however I primarily used pre-existing spritework as reference.<br>
+{% include gallery id="gallery_2d" layout="half" thumb_height="180px"}
 
+The following sprites are ones I created using Libresprite for my groupwork module, CRE135.<br>
 {% include gallery id="gallery_showcase" layout="third" thumb_height="180px" %}
