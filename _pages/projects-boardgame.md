@@ -15,7 +15,7 @@ sidebar:
     <h2>1st Yr Project Game - Nyaight on the Town</h2>
     <p>
 In addition to making video games, I have also dabbled in physical game creation. My boardgame, Nya-ight on the Town (Nyaight on the Town), was designed to stimulate strategic competition with a light-hearted theme. <br>
-_
+Creating this was difficult at the start, but once I got the idea narrowed down, everything clicked together easily. Nyaight on the Town never changed drastically from concept to final version, save for fixes to balance it out or better explaining the rules. <br>
     </p>
   </div>
 </div>
