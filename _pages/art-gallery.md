@@ -44,7 +44,7 @@ gallery_showcase:
 
 Here is a selection of sprites and assets I made myself for various game projects using programs such as Libresprite.<br>
 Below are a collection of sprites I made for my module, CRE134. I used Libresprite to create these, however I primarily used pre-existing spritework as reference.<br>
-{% include gallery id="gallery_2d" layout="half" thumb_height="180px"}
+{% include gallery id="gallery_2d" layout="half" thumb_height="180px" %}
 
 The following sprites are ones I created using Libresprite for my groupwork module, CRE135.<br>
 {% include gallery id="gallery_showcase" layout="third" thumb_height="180px" %}
