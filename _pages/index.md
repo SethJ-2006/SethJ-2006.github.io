@@ -14,7 +14,7 @@ header:
 
 excerpt: "Welcome to my Portfolio website."
 intro: 
-  - excerpt: 'Start adding in text to here, small paragraph to introduce my skills...'
+  - excerpt: 'A list of my current skills are described below.' 
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
