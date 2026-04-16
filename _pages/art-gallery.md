@@ -36,15 +36,18 @@ gallery_showcase:
     caption: "Healthbar (2D Groupwork)"
   - url: assets/images/gallery/Recovery_Particle.png
     image_path: assets/images/gallery/Recovery_Particle.png
-    alt: "Health recovery particles made to show healing."
+    alt: "Health recovery particles made to show healing - low quality as it needed to be resized."
     title: "Health Recovery Particle"
     caption: "Health Recovery Particle (2D Groupwork)"
 ---
 ## Art Gallery
 
-Here is a selection of sprites and assets I made myself for various game projects using programs such as Libresprite.<br>
-Below are a collection of sprites I made for my module, CRE134. I used Libresprite to create these, however I primarily used pre-existing spritework as reference.<br>
+Here is a selection of sprites and assets I made myself for various game projects using programs such as Libresprite.
+<br>
+Below are a collection of sprites I made for my module, CRE134. I used Libresprite to create these, however I primarily used pre-existing spritework as reference.
+<br>
 {% include gallery id="gallery_2d" layout="half" thumb_height="180px" %}
 
-The following sprites are ones I created using Libresprite for my groupwork module, CRE135.<br>
+The following sprites are ones I created using Libresprite for my groupwork module, CRE135.
+<br>
 {% include gallery id="gallery_showcase" layout="third" thumb_height="180px" %}
