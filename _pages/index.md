@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Welcome to my Portfolio website."
 intro: 
   - excerpt: 'Start adding in text to here, small paragraph to introduce my skills...'
 skills:
