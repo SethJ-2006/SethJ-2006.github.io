@@ -3,7 +3,7 @@ title: "About Me"
 layout: single
 permalink: /about-me/
 ---
-## About Me
+
 
 {% include figure image_path="/assets/images/headshot-image.png" alt="A picture of me from the shoulders-up." %}
 {% include quote text="Ever-improving, step by step." %}
