@@ -38,7 +38,7 @@ skills:
     text: <a href="https://sethj-2006.github.io/gallery/" rel="noopener noreferrer">See Examples</a>
     level_label: "Beginner"
 ---
-
+{% include button url="/about-me/" label="Who am I?" class="btn--primary" %}
 {% include feature_row id="intro" type="center" %}
 
 
