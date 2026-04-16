@@ -1,5 +1,5 @@
 ---
-title: <h2>3D Greybox</h2>
+title: 3D Greybox
 layout: single
 permalink: /projects/3d-game/
 sidebar:
