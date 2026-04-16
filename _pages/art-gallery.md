@@ -41,7 +41,6 @@ gallery_showcase:
 ---
 ## Art Gallery
 
-This is a temporary text before putting the actual image slideshow into this page. This is merely to allow the page to be committed.
-Need to add in images/screenshots from my games to include.
+Here is a selection of sprites and assets I made myself for various game projects using programs such as Libresprite.
 
 {% include gallery id="gallery_showcase" layout="third" thumb_height="180px" %}
