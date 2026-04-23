@@ -20,6 +20,21 @@ This project had also taught me the value of troubleshooting, as there were vari
     </p>
   </div>
 </div>
+<br>
+
+<div style="display:flex; flex-wrap:wrap; grap:2rem; align-items:flex-start;">
+  <div style="flex:1 1 500px; min-width:500px;">
+
+  </div>
+  <div style="flex: 1 1 250px; min-width:400px;">
+    <h2>1st Yr Group Project - Feral</h2>
+    <p>
+This project was created in a group, with my role primarily comprising the User Interface (UI) elements. This included the healthbar in design & function, a pause menu & options menu, working buttons, and a main menu scene & logo.<br>
+I additionally handled video production for the game trailer (shown above).<br>
+Creating Feral helped me to both refine my skills from the previous solo project, and also improve my teamworking skills. Having tasks divied up meant the workload felt less stressful and daunting on me, resulting in an overall more fulfilling experience to me.<br>
+    </p>
+  </div>
+</div>
 
 
 
