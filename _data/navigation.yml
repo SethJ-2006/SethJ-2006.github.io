@@ -20,13 +20,13 @@ main:
  
 
 # Sidebar menu for the Projects page
-projects:
-  - title: "2D Game"
-    url: /projects/2d-game/
-  - title: "3D Game"
-    url: /projects/3d-game/
-  - title: "Physical Game"
-    url: /projects/board-game/
+  projects:
+      - title: "2D Games"
+        url: /projects/2d-games/
+      - title: "3D Games"
+        url: /projects/3d-games/
+      - title: "Physical Games"
+        url: /projects/board-games/
 
 # Sidebar menu for the Pages page
 pages:
