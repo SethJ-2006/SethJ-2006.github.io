@@ -19,7 +19,7 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
+    text: "Created multiple prototypes in both 2D and 3D."
     year: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
@@ -34,8 +34,7 @@ skills:
   - name: "Pixel Art"
     icon: "fa-solid fa-palette"
     badges: ["Libresprite"]
-    text: "Created pixel art sprites to be used in Unity project."
-    text: <a href="https://sethj-2006.github.io/gallery/" rel="noopener noreferrer">See Examples</a>
+    text: "Created pixel art sprites to be used in Unity project." <a href="https://sethj-2006.github.io/gallery/" rel="noopener noreferrer">See Examples</a>
     level_label: "Beginner"
 ---
 <div style="text-align: center; border: 2px solid grey; padding: 2px;">
