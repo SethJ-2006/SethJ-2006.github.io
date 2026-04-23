@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "Welcome to my Portfolio website."
+excerpt: "Enthusiastic, resilient, and capable - I'll give any work my all."
 intro: 
   - excerpt: 'A list of my current skills are described below.' 
 skills:
@@ -38,7 +38,7 @@ skills:
     level_label: "Beginner"
 ---
 <div style="text-align: center; border: 2px solid grey; padding: 2px;">
-  {% include button url="/about-me/" label="Who am I?" class="btn--primary" %}
+  {% include button url="/about-me/" label="Learn more about me." class="btn--primary" %}
 </div>
 {% include feature_row id="intro" type="center" %}
 
