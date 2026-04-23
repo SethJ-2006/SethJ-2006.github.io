@@ -5,12 +5,12 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "2D Game"
-        url: /projects/2d-game/
-      - title: "3D Game"
-        url: /projects/3d-game/
-      - title: "Physical Game"
-        url: /projects/board-game/
+      - title: "2D Games"
+        url: /projects/2d-games/
+      - title: "3D Games"
+        url: /projects/3d-games/
+      - title: "Physical Games"
+        url: /projects/board-games/
   - title: "Art Gallery"
     url: /gallery/
   - title: "About"
