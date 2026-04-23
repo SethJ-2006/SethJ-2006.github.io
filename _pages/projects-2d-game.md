@@ -24,7 +24,7 @@ This project had also taught me the value of troubleshooting, as there were vari
 
 <div style="display:flex; flex-wrap:wrap; grap:2rem; align-items:flex-start;">
   <div style="flex:1 1 500px; min-width:500px;">
-
+    {% include video id="fYnLeUCH5c8" provider="youtube" %}
   </div>
   <div style="flex: 1 1 250px; min-width:400px;">
     <h2>1st Yr Group Project - Feral</h2>
