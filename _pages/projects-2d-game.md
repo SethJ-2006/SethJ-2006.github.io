@@ -1,7 +1,7 @@
 ---
-title: "2D Demo"
+title: "2D Game Projects"
 layout: single
-permalink: /projects/2d-game/
+permalink: /projects/2d-games/
 sidebar:
   title: "Projects"
   nav:
@@ -12,10 +12,10 @@ sidebar:
     {% include video id="4ZSDLuPbj1M" provider="youtube" %}
   </div>
   <div style="flex:1 1 250px; min-width:400px;">
-    <h2>1st Yr Project Game - 2D Game Creation</h2>
+    <h2>1st Yr Project - 2D Game Creation</h2>
     <p>
 For this project, I was tasked with creating a short 2d level in Unity. It helped me to learn a lot more about each individual aspect of game creation, including creating pixel art sprites, tilemapping, scripting, and various systems. <br>
-Not every assets was original, and most were copied from existing games for the sake of making it easier. <br>
+Not every assets was original. For some sprites I created, I used references of existing sprite art from games I like (primarily the Mega Man series), in order to improve my art skills. For the Player model, I used a free asset from Itch.io.<br>
 This project had also taught me the value of troubleshooting, as there were various issues during development (such as the volume options not working in the Unity scene or the attack originally not switching sides with the player).
     </p>
   </div>
