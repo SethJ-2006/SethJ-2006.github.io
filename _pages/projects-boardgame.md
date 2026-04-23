@@ -1,7 +1,7 @@
 ---
-title: "Physical Game"
+title: "Physical Games"
 layout: single
-permalink: /projects/board-game/
+permalink: /projects/board-games/
 sidebar:
   title: "Projects"
   nav:
@@ -12,7 +12,7 @@ sidebar:
     {% include video id="xDs5fGbIQ04" provider="youtube" %}
   </div>
   <div style="flex:1 1 250px; min-width:250px;">
-    <h2>1st Yr Project Game - Nyaight on the Town</h2>
+    <h2>1st Yr Project - Nyaight on the Town</h2>
     <p>
 In addition to making video games, I have also dabbled in physical game creation. My boardgame, Nya-ight on the Town (Nyaight on the Town), was designed to stimulate strategic competition with a light-hearted theme. <br>
 Creating this was difficult at the start, but once I got the idea narrowed down, everything clicked together easily. Nyaight on the Town never changed drastically from concept to final version, save for fixes to balance it out or better explaining the rules. <br>
