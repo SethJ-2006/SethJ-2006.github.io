@@ -19,6 +19,7 @@ sidebar:
 In Unity, I was able to create a 3D greybox environment, utilising assets from the Unity Asset Store and ProBuilder Plus. The environment in question was to simulate a hubworld for a 3D-Platformer, with rooms containing portal to worlds.<br>
 The assignment was mostly to test the waters with 3D game development, but I found the whole process very enjoyable. Populating the space with various assets, either borrowed off of the Asset Store or created using the ProBuilder Plus extension, was an easy-to-learn process for me, and I'm quite happy with how it turned out in the end.
     </p>
+{% include figure image_path="assets/images/Screenshots/3d_screenshot_barrel.png" alt="A screenshot taken in my Unity project, showing a barrel that was made." %}
   </div>
 </div>
 
