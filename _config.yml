@@ -52,7 +52,7 @@ footer: # Site footer
   links: # Footer links
     - label: "LinkedIn" # Twitter link
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/feed/"
+      url: "https://www.linkedin.com/in/seth-mcardle/"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
