@@ -36,12 +36,28 @@ skills:
     badges: ["Libresprite"]
     text: <a href="https://sethj-2006.github.io/gallery/" rel="noopener noreferrer">Click Here for Examples</a>
     level_label: "Beginner"
+feature_row:
+  - image_path: /assets/images/gallery/Feral_Title_Logo.png
+    alt: "Logo for my group project game, Feral."
+    title: "Feral - 2D Group Project"
+    excerpt: "A 2D Platformer created as part of a group."
+    url: /projects/2d-games/
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/gallery/Sprite-GDD_Action_Card.png
+    alt: "Icon for physical board game"
+    title: "Nyaight on the Town - Physical Board Game"
+    excerpt: "A standard boardgame created for a university project."
+    url: /projects/board-games/
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
 ---
 <div style="text-align: center; border: 2px solid grey; padding: 2px;">
   {% include button url="/about-me/" label="Learn more about me." class="btn--primary" %}
 </div>
-{% include feature_row id="intro" type="center" %}
-
-
 
 {% include skills skills=page.skills %}
+
+<br>
+{% include feature_row id="intro" type="center" %}
+<br>
