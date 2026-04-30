@@ -39,6 +39,15 @@ gallery_showcase:
     alt: "Health recovery particles made to show healing - low quality as it needed to be resized."
     title: "Health Recovery Particle"
     caption: "Health Recovery Particle (2D Groupwork)"
+  - url: assets/images/gallery/Feral_Title_Logo.png
+    image_path: assets/images/gallery/Feral_Title_Logo.png
+    alt: "The final version of the logo created for our group project game, Feral."
+    caption: "The final version of the logo for Feral (2D Groupwork)"
+gallery_misc:
+  - url: assets/images/gallery/Sprite-GDD_Action_Card.png
+    image_path: assets/images/gallery/Sprite-GDD_Action_Card.png
+    alt: "The design used for the 'Action Cards', components for my physical board game, Nya-ight on the Town."
+    caption: "The design used on the back of 'Action Cards'; components used for my physical board game."
 ---
 ## Art Gallery
 
@@ -51,3 +60,7 @@ Below are a collection of sprites I made for my module, CRE134. I used Librespri
 The following sprites are ones I created using Libresprite for my groupwork module, CRE135.
 <br>
 {% include gallery id="gallery_showcase" layout="third" thumb_height="180px" %}
+
+In addition to creating sprites for 2D games, I have also created sprite art for other purposes, or for miscellaneous practice.
+<br>
+{% include gallery id="gallery_misc" layout="''" thumb_height="180px" %}
