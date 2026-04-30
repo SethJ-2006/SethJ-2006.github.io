@@ -55,9 +55,7 @@ feature_row:
 <div style="text-align: center; border: 2px solid grey; padding: 2px;">
   {% include button url="/about-me/" label="Learn more about me." class="btn--primary" %}
 </div>
-
-{% include skills skills=page.skills %}
-
 <br>
 {% include feature_row id="intro" type="center" %}
 <br>
+{% include skills skills=page.skills %}
