@@ -41,7 +41,9 @@ skills:
 <div style="text-align: center; border: 2px solid grey; padding: 2px;">
   {% include button url="/about-me/" label="Learn more about me." class="btn--primary" %}
 </div>
-<br>
 {% include feature_row id="intro" type="center" %}
+
+
+
 <br>
 {% include skills skills=page.skills %}
