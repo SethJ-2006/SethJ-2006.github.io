@@ -16,7 +16,7 @@ sidebar:
     <p>
 For this project, I was tasked with creating a short 2d level in Unity. It helped me to learn a lot more about each individual aspect of game creation, including creating pixel art sprites, tilemapping, scripting, and various systems. <br>
 Not every assets was original. For some sprites I created, I used references of existing sprite art from games I like (primarily the Mega Man series), in order to improve my art skills. For the Player model, I used a free asset from Itch.io.<br>
-{% include download title="Check out the model I used here." url="https://illlittlely.itch.io/bushi1" button_label="BUSHI vol.1 by Ill Little ly" %}
+{% include download title="Check out the player sprites I used below." url="https://illlittlely.itch.io/bushi1" button_label="BUSHI vol.1 by Ill Little ly" %}
 <br>
 This project had also taught me the value of troubleshooting, as there were various issues during development (such as the volume options not working in the Unity scene or the attack originally not switching sides with the player).
     </p>
